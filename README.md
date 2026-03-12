@@ -10,7 +10,7 @@ The goal of this project is to **demonstrate end-to-end BI skills** including:
 * Business insight generation
 * Interactive dashboard design
 
-📄 Dashboard Preview:
+📄 Dataset: https://mavenanalytics.io/data-playground/airbnb-listings-reviews
 
 
 ---
