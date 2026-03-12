@@ -156,21 +156,14 @@ This indicates high levels of **platform trust and verification compliance**.
 
 # Data Model
 
-The project uses a **star-like schema** with fact tables and dimension tables.
+The project used 2 tables:
 
 **Main tables:**
-
-Fact Tables
 
 * Listings
 * Reviews
 
-Dimension Tables
 
-* Hosts
-* Cities
-* Property Types
-* Ratings
 
 Relationships were optimized to enable **fast aggregations and interactive filtering**.
 
