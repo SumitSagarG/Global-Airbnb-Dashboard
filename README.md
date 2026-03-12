@@ -273,5 +273,3 @@ Airbnb-PowerBI-Dashboard
 ├── README.md
 └── images
 
-
-If you want, I can also show you **3 small changes that make this project look 10x more impressive to recruiters** (most candidates miss these).
